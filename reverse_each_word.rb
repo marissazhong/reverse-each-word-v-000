@@ -8,4 +8,5 @@ def reverse_each_word(sentence)
      result << " #{word}"
     end
   }
+  return result
 end
